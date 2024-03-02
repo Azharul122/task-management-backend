@@ -13,7 +13,7 @@
  npm install
 ```
 
-3. Firebase Configuration:
+3. MongoDB URI Configuration:
 Create a .env file in the root directory and add your Firebase sensitive documents:
 ```bash
 DB_USER=your_mongodb_database_user

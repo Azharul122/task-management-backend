@@ -14,7 +14,7 @@
 ```
 
 3. MongoDB URI Configuration:
-Create a .env file in the root directory and add your Firebase sensitive documents:
+Create a .env file in the root directory and add your MongoDB sensitive documents:
 ```bash
 DB_USER=your_mongodb_database_user
 DB_KEY=your_mongodb_database_password
